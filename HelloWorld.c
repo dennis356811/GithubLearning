@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void print(){
-    cout << "Hello, world." << endl;
+void print() {
+    printf("Hello, world.")
 }
-int main(){
+int main() {
     print();
 }
